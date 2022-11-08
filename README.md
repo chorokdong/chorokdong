@@ -1,6 +1,13 @@
-### Hi there 👋
+### kim keon kook
+----
 
----
-### ♟ Skill
+I'm constantly studying to become a data scientist
 
-### Tool
+
+# Interest 👀
+- NLP
+
+# Skill 💍
+### 🏅 Technology Stack
+
+### 🎖️ Collaboration Tool
