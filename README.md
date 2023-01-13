@@ -11,7 +11,7 @@
  -->
 
 <div align="center">
- <img align="right"src="https://github-readme-stats.vercel.app/api?username=chorokdong&show_icons=true&theme=transparent">
+ <img align="right"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chorokdong&show_icons=true&theme=merko">
 
  ## Skill 💍
  🏅 Technology Stack  
