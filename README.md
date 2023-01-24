@@ -2,7 +2,7 @@
 ----
 
  ![header](https://capsule-render.vercel.app/api?type=soft&color=DBFFC4&text=To&nbsp;Become&nbsp;a&nbsp;Data&nbsp;Scientist&fontAlignY=45&fontSize=40&height=150&animation=fadein&desc=I'm%20constantly%20studying%20for%20my%20dream&descAlignY=70&fontColor=auto)
-
+ 
 ----
 
 
